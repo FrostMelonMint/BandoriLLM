@@ -6,7 +6,6 @@ Extract dialogues from the plot text of Bandori to train LLMS
 requests  
 re  
 tqdm  
-将仓库内scripts文件夹下所有脚本放置于同一文件夹即可使用
 ## 下载剧情文件
 **1.1下载活动剧情**
 执行`python 1get_event_story.py`  
