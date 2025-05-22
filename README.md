@@ -74,7 +74,7 @@ json
 - 005 Roselia
 - 018 RAISE A SUILEN
 - 021 Morfonica
-- 045 MyGO!!!!!
+- 045 MyGO!!!!!  
 如图所示选中页面内所有文件，并复制其文件名
 
 ![image](https://github.com/FrostMelonMint/BandoriLLM/blob/main/imgs/bandstory.jpg)
@@ -125,7 +125,8 @@ Scenarioband7-008.asset
 },
 ```
 推荐使用[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory "LLaMA-Factory")进行训练  
-对话时输入也需要按照`Name: chara, Word: word`的格式进行输入，但是角色不一定要是游戏中出现过的
+对话时输入也需要按照`Name: chara, Word: word`的格式进行输入，但是角色不一定要是游戏中出现过的  
+本项目使用Doubao-1.5-pro加速开发
 
 
 
