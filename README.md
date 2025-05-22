@@ -51,7 +51,7 @@ Name: 真白, Word: xxx
   }
 ```
 
-## Requiremnets 
+## Requirements 
 requests  
 re  
 tqdm  
